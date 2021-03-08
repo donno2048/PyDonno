@@ -10,7 +10,7 @@ setup(
     name = 'PyDonno',
     version = '1.0.0',
     description = 'All my packages',
-    long_description = open('README.txt').read(),
+    long_description = open('README.md').read(),
     url = 'https://github.com/donno2048/PyDonno',
     license = 'MIT',
     author = 'Elisha Hollander',
