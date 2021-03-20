@@ -8,9 +8,10 @@ class Install(install):
             if len(line) > 1: call(['pip', 'install', line.replace('\n', '')])
 setup(
     name = 'PyDonno',
-    version = '1.0.0',
+    version = '1.0.1',
     description = 'All my packages',
     long_description = open('README.md').read(),
+    long_description_content_type="text/markdown",
     url = 'https://github.com/donno2048/PyDonno',
     license = 'MIT',
     author = 'Elisha Hollander',
