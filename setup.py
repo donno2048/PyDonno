@@ -5,7 +5,7 @@ class Install(install):
     def run(self):
         install.run(self)
         for line in open('requirements.txt').readlines():
-            if len(line) > 1: call(['pip', 'install', line.replace('\n', '')])
+            if len(line) > 1: call(['pip3', 'install', line.replace('\n', '')])
 setup(
     name = 'PyDonno',
     version = '1.0.1',
