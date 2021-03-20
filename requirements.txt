@@ -1,5 +1,5 @@
 PyMathRender
-PY-GUI
+PY_GUI
 rosehip
 polyglots
 blade-runner
