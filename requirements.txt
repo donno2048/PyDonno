@@ -14,4 +14,5 @@ notint
 mp42uni
 figcow
 DDos
+pytermrec
 #spamcmd (this is a virus)
