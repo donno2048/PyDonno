@@ -15,4 +15,5 @@ mp42uni
 figcow
 DDos
 pytermrec
+cylinderize
 #spamcmd (this is a virus)
