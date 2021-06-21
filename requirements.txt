@@ -18,4 +18,5 @@ pytermrec
 cylinderize
 nothingness
 dflask
+restricted-functions
 #spamcmd (this is a virus)
