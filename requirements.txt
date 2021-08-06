@@ -19,4 +19,5 @@ cylinderize
 nothingness
 dflask
 restricted-functions
+pyp3
 #spamcmd (this is a virus)
