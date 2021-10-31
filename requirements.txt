@@ -21,4 +21,5 @@ dflask
 restricted-functions
 pyp3
 pygoto
+pyas
 #spamcmd (this is a virus)
