@@ -22,4 +22,5 @@ restricted-functions
 pyp3
 pygoto
 pyas
+yt2mp4
 #spamcmd (this is a virus)
