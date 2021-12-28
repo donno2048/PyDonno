@@ -2,14 +2,18 @@
 
 This is a single PyPI package to install all my packages.
 
+## Install requirements (only needed on Linux)
+
+`sudo apt install ffmpeg libsm6 libxext6 nasm python3-tk -y`
+
 ## To use
 
 Just install the package.
 
 ### From PyPI
 
-`py -m pip install PyDonno`
+`python3 -m pip install PyDonno`
 
 ### From GitHub
 
-`py -m pip install git+https://github.com/donno2048/PyDonno`
+`python3 -m pip install git+https://github.com/donno2048/PyDonno`
