@@ -8,7 +8,7 @@ class Install(install):
             if len(line) > 1: call(['pip3', 'install', line.replace('\n', '')])
 setup(
     name = 'PyDonno',
-    version = '1.1.1',
+    version = '1.1.2',
     description = 'All my packages',
     long_description = open('README.md').read().replace('`', '').replace('sh', '').replace('\n', '\n\n'),
     long_description_content_type="text/markdown",
