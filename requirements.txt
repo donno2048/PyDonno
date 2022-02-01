@@ -24,5 +24,6 @@ pygoto
 pyas
 yt2mp4
 base256
+zipbomb
 #spamcmd (this is a virus)
 #pydonno (installing itself will cause infinite recursion)
