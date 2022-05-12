@@ -26,5 +26,6 @@ yt2mp4
 base256
 zipbomb
 exe2png
+ptray
 #spamcmd (this is a virus)
 #pydonno (installing itself will cause infinite recursion)
