@@ -28,5 +28,6 @@ zipbomb
 exe2png
 ptray
 link2mp4
+pybracket
 #spamcmd (this is a virus)
 #pydonno (installing itself will cause infinite recursion)
