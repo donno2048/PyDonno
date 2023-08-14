@@ -31,5 +31,6 @@ link2mp4
 pybracket
 pygetkey
 python-beep
+fmath
 #spamcmd (this is a virus)
 #pydonno (installing itself will cause infinite recursion)
