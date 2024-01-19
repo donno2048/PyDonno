@@ -33,5 +33,6 @@ pygetkey
 python-beep
 fmath
 pyc4
+bfcc
 #spamcmd (this is a virus)
 #pydonno (installing itself will cause infinite recursion)
