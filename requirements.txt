@@ -34,5 +34,6 @@ python-beep
 fmath
 pyc4
 bfcc
+stringedit
 #spamcmd (this is a virus)
 #pydonno (installing itself will cause infinite recursion)
