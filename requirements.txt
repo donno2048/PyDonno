@@ -35,5 +35,6 @@ fmath
 pyc4
 bfcc
 stringedit
+clickpy
 #spamcmd (this is a virus)
 #pydonno (installing itself will cause infinite recursion)
