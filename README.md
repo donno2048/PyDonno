@@ -19,11 +19,11 @@ Just install the package.
 ### From PyPI
 
 ```sh
-python3 -m pip install PyDonno
+python3 -m pip install PyDonno --no-cache-dir --force-reinstall --no-build-isolation
 ```
 
 ### From GitHub
 
 ```sh
-python3 -m pip install git+https://github.com/donno2048/PyDonno
+python3 -m pip install git+https://github.com/donno2048/PyDonno --no-cache-dir --force-reinstall --no-build-isolation
 ```
